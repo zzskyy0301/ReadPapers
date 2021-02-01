@@ -12,6 +12,7 @@ Author A: cost
 
 # Methods
 Figure 1 of the paper
+![methods](https://github.com/zzskyy0301/ReadPapers/blob/main/figures/Screen%20Shot%202021-02-01%20at%203.05.53%20PM.png)
 # Take-aways
 - 3 research directions: (1) Road detection;(2)Vehicle tracking and detection; (3)Traffic parameter estimation
 # Bads
