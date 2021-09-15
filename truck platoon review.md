@@ -1,6 +1,6 @@
-#planning of truck platoons: A literature review and directionsfor future research
+# planning of truck platoons: A literature review and directionsfor future research
 
-[![link](https://www.sciencedirect.com/science/article/pii/S0191261517305246)
+[! [link](https://www.sciencedirect.com/science/article/pii/S0191261517305246)
 
 
 # Contributions
