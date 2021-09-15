@@ -1,6 +1,6 @@
 # planning of truck platoons: A literature review and directionsfor future research
 
-[! [link](https://www.sciencedirect.com/science/article/pii/S0191261517305246)
+[paper link](https://www.sciencedirect.com/science/article/pii/S0191261517305246)
 
 
 ## Contributions
@@ -10,7 +10,9 @@
 ## Take-aways:
 - Unrestrieted, flexible platooning is a potential research area. Mthoeds in ride-sharing and routing can be transferred here.
 - Effect of different regulating policies is a potrntial research area. (Length of queue, game theory, surveys..)
+- what is heuristic algorithm? [youtube link]()
 
 # Hub-based truck platooning: Potentials and profitability
 ## Contributions
+
 ## Take-aways
