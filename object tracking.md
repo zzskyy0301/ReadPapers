@@ -35,6 +35,7 @@ appearance information & Mahalanobis distance
 
 
 # Real-time JDE
-[PAPER](https://arxiv.org/pdf/1909.12605.pdf)
+[PAPER](https://arxiv.org/pdf/1909.12605.pdf) 
+links avalia?
 
 
